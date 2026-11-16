@@ -19,4 +19,4 @@ I like finding out what unknown proteins actually do. Most of my work is on the 
 - Protein function analysis workflow (link coming soon)
 
 ## Say hi
-Always happy to chat about bioinformatics or research. The easiest way to reach me is LinkedIn: https://www.linkedin.com/in/sweetyrasal-0b7754232
+Always happy to chat about bioinformatics or research. The easiest way to reach me is LinkedIn: https://www.linkedin.com/in/sweety-rasal-0b7754232
